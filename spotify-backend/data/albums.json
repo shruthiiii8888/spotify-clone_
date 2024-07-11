@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Album One",
+    "artist": "Artist One",
+    "image": "http://localhost:5000/images/download1.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 1-1",
+        "url": "http://localhost:5000/music/song1.mp3",
+        "image": "http://localhost:5000/images/song1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 1-2",
+        "url": "http://localhost:5000/music/song2.mp3",
+        "image": "http://localhost:5000/images/song2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Album Two",
+    "artist": "Artist Two",
+    "image": "http://localhost:5000/images/download2.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 2-1",
+        "url": "http://localhost:5000/music/song2.mp3",
+        "image": "http://localhost:5000/images/song2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 2-2",
+        "url": "http://localhost:5000/music/song3.mp3",
+        "image": "http://localhost:5000/images/song3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Album Three",
+    "artist": "Artist Three",
+    "image": "http://localhost:5000/images/download3.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 3-1",
+        "url": "http://localhost:5000/music/song4.mp3",
+        "image": "http://localhost:5000/images/song4.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 3-2",
+        "url": "http://localhost:5000/music/song5.mp3",
+        "image": "http://localhost:5000/images/song5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Album Four",
+    "artist": "Artist Four",
+    "image": "http://localhost:5000/images/download4.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 4-1",
+        "url": "http://localhost:5000/music/song4.mp3",
+        "image": "http://localhost:5000/images/song4.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 4-2",
+        "url": "http://localhost:5000/music/song9.mp3",
+        "image": "http://localhost:5000/images/song9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Album Five",
+    "artist": "Artist Five",
+    "image": "http://localhost:5000/images/download5.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 5-1",
+        "url": "http://localhost:5000/music/song5.mp3",
+        "image": "http://localhost:5000/images/song5.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 5-2",
+        "url": "http://localhost:5000/music/song6.mp3",
+        "image": "http://localhost:5000/images/song6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Album Six",
+    "artist": "Artist Six",
+    "image": "http://localhost:5000/images/download6.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 6-1",
+        "url": "http://localhost:5000/music/song6.mp3",
+        "image": "http://localhost:5000/images/song6.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 6-2",
+        "url": "http://localhost:5000/music/song8.mp3",
+        "image": "http://localhost:5000/images/song8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Album Seven",
+    "artist": "Artist Seven",
+    "image": "http://localhost:5000/images/download7.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 7-1",
+        "url": "http://localhost:5000/music/song7.mp3",
+        "image": "http://localhost:5000/images/song7.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 7-2",
+        "url": "http://localhost:5000/music/song10.mp3",
+        "image": "http://localhost:5000/images/song10.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Album Eight",
+    "artist": "Artist Eight",
+    "image": "http://localhost:5000/images/download8.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song 8-1",
+        "url": "http://localhost:5000/music/song8.mp3",
+        "image": "http://localhost:5000/images/song8.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Song 8-2",
+        "url": "http://localhost:5000/music/song4.mp3",
+        "image": "http://localhost:5000/images/song4.jpg"
+      }
+    ]
+  }
+]
